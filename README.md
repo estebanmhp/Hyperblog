@@ -12,3 +12,5 @@ Un blog increible para el curso de Git y Github
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado como un ejemplo.
 
 *Creado en el curso de Platzi
+*Creado en el curso de Platzi, incluye varios ejemplos que muestran lo aprendido.
+*Disponible para todas las edades.
